@@ -1,0 +1,14 @@
+{
+  "Highway": {
+    "efficiency_multiplier": 1.0,
+    "explanation": "Baseline for efficient, steady cruising."
+  },
+  "City (Stop-and-Go)": {
+    "efficiency_multiplier": 0.90,
+    "explanation": "Frequent acceleration and braking reduces efficiency."
+  },
+  "Hills (Uphill)": {
+    "efficiency_multiplier": 0.80,
+    "explanation": "Fighting gravity uses significantly more energy."
+  }
+}
